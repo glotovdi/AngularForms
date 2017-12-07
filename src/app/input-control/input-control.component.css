@@ -1,0 +1,13 @@
+.form-control {
+  margin-bottom: 15px;
+}
+label {
+  margin-bottom: 5px;
+}
+.form-control.ng-invalid.ng-touched {
+  border-color: red;
+}
+
+.form-control.ng-valid.ng-touched {
+  border-color: green;
+}
